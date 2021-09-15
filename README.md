@@ -13,12 +13,16 @@ Data Description:
  
 Sentiment Analysis with TextBlob
 -> Identify the negative and positive news and articles
+
 Sentiment Classification Analysis
 -> Develop statistical model for classifying the news and articles as either positive or negative
+
 Topic Analysis -- Word Cloud
 -> Determine key words and topics, and visualize them
+
 NER Analysis– Spcay
 ->Identify top person and organizations.
+
 Topic Modeling – LDA Model
 ->Discovering hidden topical patterns that are present across the news and articles.
 
